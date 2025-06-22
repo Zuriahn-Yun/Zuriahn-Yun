@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, Im Zuriahn Yun
+Check out my portfolio website @ https://zuriahn-yun.github.io/
 <!--
 **Zuriahn-Yun/Zuriahn-Yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
