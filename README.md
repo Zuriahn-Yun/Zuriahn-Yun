@@ -3,4 +3,4 @@
 [Portfolio](https://zuriahn-yun.github.io/)
 
 [Email](mailto:zuriahn.yun@gmail.com)
-[LinkedIn](www.linkedin.com/in/zuriahnyun)
+[LinkedIn](https://www.linkedin.com/in/zuriahnyun/)
