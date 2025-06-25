@@ -1,4 +1,4 @@
-## Hello, my name is Zuriahn Yun
+## Zuriahn Yun
 
 [Portfolio](https://zuriahn-yun.github.io/)
 
