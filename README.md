@@ -4,5 +4,3 @@
 
 [Email](mailto:zuriahn.yun@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/zuriahnyun/)
-
-![My Stats](./profile-stats.svg)
