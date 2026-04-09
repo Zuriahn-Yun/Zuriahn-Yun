@@ -2,7 +2,7 @@
 
 ## Featured Projects
 
-### High-Performance Database Engine
+### Database Engine
 [**Cuda-Database-Engine**](https://github.com/Zuriahn-Yun/Cuda-Database-Engine)
 
 A database engine that uses GPU acceleration to speed up SQL queries. It stores data in columns and uses parallel processing to handle large analytical workloads more efficiently than traditional CPU-based databases.
